@@ -1,0 +1,2 @@
+# Inventory
+Simple inventory management
